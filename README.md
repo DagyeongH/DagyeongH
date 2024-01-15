@@ -19,7 +19,7 @@
 #### 📓 My log 📓
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gangda)](https://velog.io/@gangda/posts)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DagyeongH&show_icons=true&theme=graywhite)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DagyeongH&show_icons=true&theme=graywhite)-->
 
 <!--
 
