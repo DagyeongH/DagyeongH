@@ -2,7 +2,7 @@
 
 ###  :wave: Welcome my github profile :wave:
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=7193bd&height=150&section=header&text=DagyeongH&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=7193bd&height=150&section=header&text=Dagyeong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ####  🔨 Once I've used 🔨
 <a href="링크"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
