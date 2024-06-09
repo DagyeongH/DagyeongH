@@ -12,4 +12,5 @@
 
 
 #### 📓 My log 📓
+[2024.06.08 - [후기] Playdata Data Analysis 트랙 수료](https://DagyeongH.github.io/retrospective/[후기]-Playdata-Data-Analysis-트랙-수료/) <br>
 [2024.05.08 - [회고] 깃허브 블로그 제작기](https://DagyeongH.github.io/retrospective/[회고]-깃허브-블로그-제작기/) <br>
