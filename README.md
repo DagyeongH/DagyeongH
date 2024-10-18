@@ -9,8 +9,3 @@
 <a href="링크"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-
-
-#### 📓 My log 📓
-[2024.06.08 - [후기] Playdata Data Analysis 트랙 수료](https://DagyeongH.github.io/retrospective/[후기]-Playdata-Data-Analysis-트랙-수료/) <br>
-[2024.05.08 - [회고] 깃허브 블로그 제작기](https://DagyeongH.github.io/retrospective/[회고]-깃허브-블로그-제작기/) <br>
